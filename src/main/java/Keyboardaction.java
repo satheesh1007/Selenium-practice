@@ -17,5 +17,8 @@ public class Keyboardaction {
        // checkboxdown.sendKeys(Keys.END);
          // checkboxdown.sendKeys(Keys.PAGE_DOWN);
           checkboxdown.sendKeys(Keys.PAGE_UP);
+
+
+
     }
 }
